@@ -1,6 +1,7 @@
 ---
 title: Git Rebase, when to use it?
 categories: git
+draft: true
 ---
 
 >`git rebase` in its simplest form is a command which will merge another branch

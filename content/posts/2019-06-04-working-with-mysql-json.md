@@ -1,6 +1,7 @@
 ---
 title: Working with MySQL JSON
 category: mysql
+draft: true
 ---
 As of [MySQL 5.7.8](https://dev.mysql.com/doc/relnotes/mysql/5.7/en/news-5-7-8.html#mysqld-5-7-8-json), MySQL supports a native JSON data type defined by RFC 7159 that enables efficient access to data in JSON (JavaScript Object Notation) documents
 <!--more-->

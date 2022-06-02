@@ -1,5 +1,6 @@
 ---
 title: Choosing between Interface and Abstract Class?
+draft: true
 ---
 This is the question that I still feel that I don't have a right answer for the
 past few year!

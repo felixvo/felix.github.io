@@ -1,3 +1,8 @@
+---
+title: A guide for installing Arch Linux
+category: linux
+draft: true
+---
 A guide for installing Arch Linux
 
 <!--more-->

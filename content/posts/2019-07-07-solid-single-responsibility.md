@@ -1,6 +1,7 @@
 ---
 title: '[SOLID] Single Responsibility Principle'
 categories: fundamental solid
+draft: true
 ---
 >A class or module should have one, and only one, reason to be changed -- [Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
 <!--more-->

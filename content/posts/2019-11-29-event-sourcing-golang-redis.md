@@ -1,6 +1,7 @@
 ---
 title: Event Sourcing with Go and Redis
 category: architecture
+draft: true
 ---
 
 I thought you already heard about Event Sourcing in the past recent year.

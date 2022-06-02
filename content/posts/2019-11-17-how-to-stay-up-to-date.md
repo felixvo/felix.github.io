@@ -1,6 +1,6 @@
 ---
 title: How do you stay up to date as a Software Engineer
-published: true
+draft: false
 description: How do you stay up to date as a Software Engineer. Here is mine
 tags: ["productivity", "discuss"]
 cover_image: https://thepracticaldev.s3.amazonaws.com/i/tey035yzk8t4y4ssy6hm.png

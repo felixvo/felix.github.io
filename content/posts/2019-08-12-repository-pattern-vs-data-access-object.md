@@ -1,6 +1,7 @@
 ---
 title: Repository Pattern vs Data Access Object?
 category: "design pattern"
+draft: true
 ---
 What are the differences betwwen those?
 <!--more-->

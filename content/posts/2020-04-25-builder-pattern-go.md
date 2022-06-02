@@ -1,6 +1,7 @@
 ---
 title: Builder Pattern example in Go 
 categories: design pattern
+draft: true
 ---
 
 The builder pattern is a design pattern designed to provide a flexible solution to various object creation problems in object-oriented programming.  

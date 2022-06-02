@@ -1,6 +1,7 @@
 ---
 title: Vim to Emacs, a simple configuration that won't blow your mind
 categories: editor vim emacs
+draft: true
 ---
 Emacs - An extensible, customizable, free/libre text editor
 

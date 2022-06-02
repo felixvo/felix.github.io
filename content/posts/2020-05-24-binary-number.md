@@ -1,6 +1,7 @@
 ---
 title: What is Binary number by the way
 categories: fundamental
+draft: true
 ---
 ## Binary vs Decimal
 Before talking about binary numbers, lets talk about Decimal number(base-10) first.  

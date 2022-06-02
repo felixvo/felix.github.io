@@ -1,5 +1,6 @@
 ---
 title: Naming classes how to avoid calling everything a whatevermanager
+draft: true
 ---
 Try not to create new metaphors (Nanny)
 Have a look at what other frameworks do

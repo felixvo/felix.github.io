@@ -1,6 +1,7 @@
 ---
 title: Dynamic Programming
 description: Dynamic Programming summary
+draft: true
 ---
 
 Dynamic programming is a computer programming **method**.  
