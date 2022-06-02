@@ -19,8 +19,8 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: ExampleSite
-    description: "ExampleSite description"
+    title: Hi! I'm Felix
+    description: "random stuffs"
     keywords: [Blog, Portfolio, PaperMod]
     author: Me
     # author: ["Me", "You"] # multiple authors
@@ -44,36 +44,36 @@ params:
 
 
     label:
-        text: "Home"
+        text: "~/"
         icon: /apple-touch-icon.png
         iconHeight: 35
 
     # profile-mode
     profileMode:
-        enabled: false # needs to be explicitly set
-        title: ExampleSite
-        subtitle: "This is subtitle"
-        imageUrl: "<img location>"
+        enabled: true # needs to be explicitly set
+        title: "I'm Felix, a software engineer"
+        subtitle: "Hi there \U0001F44B! Welcome to my space"
+        imageUrl: "/profile.jpeg"
         imageWidth: 120
         imageHeight: 120
-        imageTitle: my image
+        imageTitle: felix profile image
         buttons:
-            - name: Posts
+            - name: SELECT * FROM posts
               url: posts
-            - name: Tags
-              url: tags
+            - name: GROUP BY category
+              url: categories
   # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
         Content: Welcome to my blog
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/"
-        - name: stackoverflow
-          url: "https://stackoverflow.com"
+        - name: CV
+          url: "https://docs.google.com/document/d/1HsoxGCwr70WiN5JV1nXF2AJ1XcvytH9vHoHgK3cgDHg/edit?usp=sharing"
         - name: github
-          url: "https://github.com/"
+          url: "https://github.com/felixvo"
+        - name: stackoverflow
+          url: "https://stackoverflow.com/users/7656889/felixvo"
 
     analytics:
         google:
@@ -110,14 +110,10 @@ menu:
           name: categories
           url: /categories/
           weight: 10
-        - identifier: tags
-          name: tags
-          url: /tags/
-          weight: 20
-        - identifier: example
-          name: example.org
-          url: https://example.org
-          weight: 30
+        # - identifier: tags
+        #   name: tags
+        #   url: /tags/
+        #   weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
