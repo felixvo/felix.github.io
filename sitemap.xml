@@ -2,83 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/tags/first/</loc>
+    <loc>https://felixvo.github.io/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/test/</loc>
+    <loc>https://felixvo.github.io/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://felixvo.github.io/posts/test/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://felixvo.github.io/posts/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://felixvo.github.io/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/2019-07-02-enough-cmds-to-install-arch/</loc>
+    <loc>https://felixvo.github.io/posts/2019-07-02-enough-cmds-to-install-arch/</loc>
   </url><url>
-    <loc>http://example.org/posts/2019-07-16-solid-dependency-injection/</loc>
+    <loc>https://felixvo.github.io/posts/2019-07-16-solid-dependency-injection/</loc>
   </url><url>
-    <loc>http://example.org/posts/2019-07-09-solid-open-closed/</loc>
+    <loc>https://felixvo.github.io/posts/2019-07-09-solid-open-closed/</loc>
   </url><url>
-    <loc>http://example.org/posts/2019-07-07-solid-single-responsibility/</loc>
+    <loc>https://felixvo.github.io/posts/2019-07-07-solid-single-responsibility/</loc>
   </url><url>
-    <loc>http://example.org/categories/aws-s3/</loc>
+    <loc>https://felixvo.github.io/categories/aws-s3/</loc>
   </url><url>
-    <loc>http://example.org/posts/2020-04-25-builder-pattern-go/</loc>
+    <loc>https://felixvo.github.io/posts/2020-04-25-builder-pattern-go/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://felixvo.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/posts/2018-12-13-choosing-between-interface-and-abstract-class/</loc>
+    <loc>https://felixvo.github.io/posts/2018-12-13-choosing-between-interface-and-abstract-class/</loc>
   </url><url>
-    <loc>http://example.org/categories/design-pattern/</loc>
+    <loc>https://felixvo.github.io/categories/design-pattern/</loc>
   </url><url>
-    <loc>http://example.org/categories/devops/</loc>
+    <loc>https://felixvo.github.io/categories/devops/</loc>
   </url><url>
-    <loc>http://example.org/tags/discuss/</loc>
+    <loc>https://felixvo.github.io/tags/discuss/</loc>
   </url><url>
-    <loc>http://example.org/posts/2020-04-19-dockerfile-for-go/</loc>
+    <loc>https://felixvo.github.io/posts/2020-04-19-dockerfile-for-go/</loc>
   </url><url>
-    <loc>http://example.org/posts/2019-11-23-dynamic-programming/</loc>
+    <loc>https://felixvo.github.io/posts/2019-11-23-dynamic-programming/</loc>
   </url><url>
-    <loc>http://example.org/categories/editor-vim-emacs/</loc>
+    <loc>https://felixvo.github.io/categories/editor-vim-emacs/</loc>
   </url><url>
-    <loc>http://example.org/categories/english/</loc>
+    <loc>https://felixvo.github.io/categories/english/</loc>
   </url><url>
-    <loc>http://example.org/posts/2019-11-29-event-sourcing-golang-redis/</loc>
+    <loc>https://felixvo.github.io/posts/2019-11-29-event-sourcing-golang-redis/</loc>
   </url><url>
-    <loc>http://example.org/categories/fundamental/</loc>
+    <loc>https://felixvo.github.io/categories/fundamental/</loc>
   </url><url>
-    <loc>http://example.org/categories/fundamental-solid/</loc>
+    <loc>https://felixvo.github.io/categories/fundamental-solid/</loc>
   </url><url>
-    <loc>http://example.org/categories/git/</loc>
+    <loc>https://felixvo.github.io/categories/git/</loc>
   </url><url>
-    <loc>http://example.org/posts/2018-09-13-git-rebase/</loc>
+    <loc>https://felixvo.github.io/posts/2018-09-13-git-rebase/</loc>
   </url><url>
-    <loc>http://example.org/posts/2019-11-17-how-to-stay-up-to-date/</loc>
+    <loc>https://felixvo.github.io/posts/2019-11-17-how-to-stay-up-to-date/</loc>
   </url><url>
-    <loc>http://example.org/posts/2018-04-18-learn-english-resources/</loc>
+    <loc>https://felixvo.github.io/posts/2018-04-18-learn-english-resources/</loc>
   </url><url>
-    <loc>http://example.org/posts/2018-10-27-naming-classes-how-to-avoid-calling-everything-a-whatevermanager/</loc>
+    <loc>https://felixvo.github.io/posts/2018-10-27-naming-classes-how-to-avoid-calling-everything-a-whatevermanager/</loc>
   </url><url>
-    <loc>http://example.org/posts/2019-05-29-open-port-centos/</loc>
+    <loc>https://felixvo.github.io/posts/2019-05-29-open-port-centos/</loc>
   </url><url>
-    <loc>http://example.org/tags/productivity/</loc>
+    <loc>https://felixvo.github.io/tags/productivity/</loc>
   </url><url>
-    <loc>http://example.org/categories/productivity/</loc>
+    <loc>https://felixvo.github.io/categories/productivity/</loc>
   </url><url>
-    <loc>http://example.org/posts/2017-12-30-productivity-tools/</loc>
+    <loc>https://felixvo.github.io/posts/2017-12-30-productivity-tools/</loc>
   </url><url>
-    <loc>http://example.org/posts/2019-08-12-repository-pattern-vs-data-access-object/</loc>
+    <loc>https://felixvo.github.io/posts/2019-08-12-repository-pattern-vs-data-access-object/</loc>
   </url><url>
-    <loc>http://example.org/posts/2018-10-27-sercure-s3-cloudfront/</loc>
+    <loc>https://felixvo.github.io/posts/2018-10-27-sercure-s3-cloudfront/</loc>
   </url><url>
-    <loc>http://example.org/posts/2020-04-29-vim-to-emacs/</loc>
+    <loc>https://felixvo.github.io/posts/2020-04-29-vim-to-emacs/</loc>
   </url><url>
-    <loc>http://example.org/posts/2020-05-24-binary-number/</loc>
+    <loc>https://felixvo.github.io/posts/2020-05-24-binary-number/</loc>
   </url><url>
-    <loc>http://example.org/posts/2019-06-04-working-with-mysql-json/</loc>
+    <loc>https://felixvo.github.io/posts/2019-06-04-working-with-mysql-json/</loc>
   </url>
 </urlset>

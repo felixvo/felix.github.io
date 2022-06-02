@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>http://example.org/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on Hi</title>
+    <link>https://felixvo.github.io/categories/</link>
+    <description>Recent content in Categories on Hi</description>
     <image>
-      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://felixvo.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://felixvo.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://felixvo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>aws s3</title>
-      <link>http://example.org/categories/aws-s3/</link>
+      <link>https://felixvo.github.io/categories/aws-s3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/aws-s3/</guid>
+      <guid>https://felixvo.github.io/categories/aws-s3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design pattern</title>
-      <link>http://example.org/categories/design-pattern/</link>
+      <link>https://felixvo.github.io/categories/design-pattern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/design-pattern/</guid>
+      <guid>https://felixvo.github.io/categories/design-pattern/</guid>
       <description></description>
     </item>
     
     <item>
       <title>devops</title>
-      <link>http://example.org/categories/devops/</link>
+      <link>https://felixvo.github.io/categories/devops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/devops/</guid>
+      <guid>https://felixvo.github.io/categories/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>editor vim emacs</title>
-      <link>http://example.org/categories/editor-vim-emacs/</link>
+      <link>https://felixvo.github.io/categories/editor-vim-emacs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/editor-vim-emacs/</guid>
+      <guid>https://felixvo.github.io/categories/editor-vim-emacs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>english</title>
-      <link>http://example.org/categories/english/</link>
+      <link>https://felixvo.github.io/categories/english/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/english/</guid>
+      <guid>https://felixvo.github.io/categories/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fundamental</title>
-      <link>http://example.org/categories/fundamental/</link>
+      <link>https://felixvo.github.io/categories/fundamental/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/fundamental/</guid>
+      <guid>https://felixvo.github.io/categories/fundamental/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fundamental solid</title>
-      <link>http://example.org/categories/fundamental-solid/</link>
+      <link>https://felixvo.github.io/categories/fundamental-solid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/fundamental-solid/</guid>
+      <guid>https://felixvo.github.io/categories/fundamental-solid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>http://example.org/categories/git/</link>
+      <link>https://felixvo.github.io/categories/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/git/</guid>
+      <guid>https://felixvo.github.io/categories/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>productivity</title>
-      <link>http://example.org/categories/productivity/</link>
+      <link>https://felixvo.github.io/categories/productivity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/productivity/</guid>
+      <guid>https://felixvo.github.io/categories/productivity/</guid>
       <description></description>
     </item>
     

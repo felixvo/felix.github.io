@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Hi</title>
+    <link>https://felixvo.github.io/</link>
+    <description>Recent content on Hi</description>
     <image>
-      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://felixvo.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://felixvo.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://felixvo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
-      <link>http://example.org/posts/test/</link>
+      <link>https://felixvo.github.io/posts/test/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>http://example.org/posts/test/</guid>
+      <guid>https://felixvo.github.io/posts/test/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/posts/2019-07-02-enough-cmds-to-install-arch/</link>
+      <link>https://felixvo.github.io/posts/2019-07-02-enough-cmds-to-install-arch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2019-07-02-enough-cmds-to-install-arch/</guid>
+      <guid>https://felixvo.github.io/posts/2019-07-02-enough-cmds-to-install-arch/</guid>
       <description>&lt;p&gt;A guide for installing Arch Linux&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>[SOLID] Dependency Inversion Principle</title>
-      <link>http://example.org/posts/2019-07-16-solid-dependency-injection/</link>
+      <link>https://felixvo.github.io/posts/2019-07-16-solid-dependency-injection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2019-07-16-solid-dependency-injection/</guid>
+      <guid>https://felixvo.github.io/posts/2019-07-16-solid-dependency-injection/</guid>
       <description>&lt;blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;High-level modules should not depend on low-level modules. Both should depend on abstractions (e.g. interfaces).&lt;/li&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>[SOLID] Open/Closed Principle</title>
-      <link>http://example.org/posts/2019-07-09-solid-open-closed/</link>
+      <link>https://felixvo.github.io/posts/2019-07-09-solid-open-closed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2019-07-09-solid-open-closed/</guid>
+      <guid>https://felixvo.github.io/posts/2019-07-09-solid-open-closed/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification
 &amp;ndash; &lt;a href=&#34;https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle&#34;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
@@ -58,10 +58,10 @@
     
     <item>
       <title>[SOLID] Single Responsibility Principle</title>
-      <link>http://example.org/posts/2019-07-07-solid-single-responsibility/</link>
+      <link>https://felixvo.github.io/posts/2019-07-07-solid-single-responsibility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2019-07-07-solid-single-responsibility/</guid>
+      <guid>https://felixvo.github.io/posts/2019-07-07-solid-single-responsibility/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;A class or module should have one, and only one, reason to be changed &amp;ndash; &lt;a href=&#34;https://en.wikipedia.org/wiki/Single_responsibility_principle&#34;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;</description>
@@ -69,48 +69,48 @@
     
     <item>
       <title>Builder Pattern example in Go</title>
-      <link>http://example.org/posts/2020-04-25-builder-pattern-go/</link>
+      <link>https://felixvo.github.io/posts/2020-04-25-builder-pattern-go/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2020-04-25-builder-pattern-go/</guid>
+      <guid>https://felixvo.github.io/posts/2020-04-25-builder-pattern-go/</guid>
       <description>&lt;p&gt;The builder pattern is a design pattern designed to provide a flexible solution to various object creation problems in object-oriented programming.&lt;br&gt;
 The intent of the Builder design pattern is to separate the construction of a complex object from its representation.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Choosing between Interface and Abstract Class?</title>
-      <link>http://example.org/posts/2018-12-13-choosing-between-interface-and-abstract-class/</link>
+      <link>https://felixvo.github.io/posts/2018-12-13-choosing-between-interface-and-abstract-class/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2018-12-13-choosing-between-interface-and-abstract-class/</guid>
+      <guid>https://felixvo.github.io/posts/2018-12-13-choosing-between-interface-and-abstract-class/</guid>
       <description>&lt;p&gt;This is the question that I still feel that I don&amp;rsquo;t have a right answer for the
 past few year!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Dockerfile for Go</title>
-      <link>http://example.org/posts/2020-04-19-dockerfile-for-go/</link>
+      <link>https://felixvo.github.io/posts/2020-04-19-dockerfile-for-go/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2020-04-19-dockerfile-for-go/</guid>
+      <guid>https://felixvo.github.io/posts/2020-04-19-dockerfile-for-go/</guid>
       <description>Dockerfile for Go</description>
     </item>
     
     <item>
       <title>Dynamic Programming</title>
-      <link>http://example.org/posts/2019-11-23-dynamic-programming/</link>
+      <link>https://felixvo.github.io/posts/2019-11-23-dynamic-programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2019-11-23-dynamic-programming/</guid>
+      <guid>https://felixvo.github.io/posts/2019-11-23-dynamic-programming/</guid>
       <description>Dynamic Programming summary</description>
     </item>
     
     <item>
       <title>Event Sourcing with Go and Redis</title>
-      <link>http://example.org/posts/2019-11-29-event-sourcing-golang-redis/</link>
+      <link>https://felixvo.github.io/posts/2019-11-29-event-sourcing-golang-redis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2019-11-29-event-sourcing-golang-redis/</guid>
+      <guid>https://felixvo.github.io/posts/2019-11-29-event-sourcing-golang-redis/</guid>
       <description>&lt;p&gt;I thought you already heard about Event Sourcing in the past recent year.
 But let&amp;rsquo;s go through the definition again.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -121,10 +121,10 @@ Event Sourcing ensures that all changes to application state are stored as a seq
     
     <item>
       <title>Git Rebase, when to use it?</title>
-      <link>http://example.org/posts/2018-09-13-git-rebase/</link>
+      <link>https://felixvo.github.io/posts/2018-09-13-git-rebase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2018-09-13-git-rebase/</guid>
+      <guid>https://felixvo.github.io/posts/2018-09-13-git-rebase/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;code&gt;git rebase&lt;/code&gt; in its simplest form is a command which will merge another branch&lt;/p&gt;
 &lt;/blockquote&gt;</description>
@@ -132,65 +132,65 @@ Event Sourcing ensures that all changes to application state are stored as a seq
     
     <item>
       <title>How do you stay up to date as a Software Engineer</title>
-      <link>http://example.org/posts/2019-11-17-how-to-stay-up-to-date/</link>
+      <link>https://felixvo.github.io/posts/2019-11-17-how-to-stay-up-to-date/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2019-11-17-how-to-stay-up-to-date/</guid>
+      <guid>https://felixvo.github.io/posts/2019-11-17-how-to-stay-up-to-date/</guid>
       <description>How do you stay up to date as a Software Engineer. Here is mine</description>
     </item>
     
     <item>
       <title>Learn English Resources</title>
-      <link>http://example.org/posts/2018-04-18-learn-english-resources/</link>
+      <link>https://felixvo.github.io/posts/2018-04-18-learn-english-resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2018-04-18-learn-english-resources/</guid>
+      <guid>https://felixvo.github.io/posts/2018-04-18-learn-english-resources/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Naming classes how to avoid calling everything a whatevermanager</title>
-      <link>http://example.org/posts/2018-10-27-naming-classes-how-to-avoid-calling-everything-a-whatevermanager/</link>
+      <link>https://felixvo.github.io/posts/2018-10-27-naming-classes-how-to-avoid-calling-everything-a-whatevermanager/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2018-10-27-naming-classes-how-to-avoid-calling-everything-a-whatevermanager/</guid>
+      <guid>https://felixvo.github.io/posts/2018-10-27-naming-classes-how-to-avoid-calling-everything-a-whatevermanager/</guid>
       <description>&lt;p&gt;Try not to create new metaphors (Nanny)
 Have a look at what other frameworks do&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Open port CentOS</title>
-      <link>http://example.org/posts/2019-05-29-open-port-centos/</link>
+      <link>https://felixvo.github.io/posts/2019-05-29-open-port-centos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2019-05-29-open-port-centos/</guid>
+      <guid>https://felixvo.github.io/posts/2019-05-29-open-port-centos/</guid>
       <description>firewall-cmd --zone=public --add-port=8080/tcp --permanent firewall-cmd --reload </description>
     </item>
     
     <item>
       <title>Productivity tools</title>
-      <link>http://example.org/posts/2017-12-30-productivity-tools/</link>
+      <link>https://felixvo.github.io/posts/2017-12-30-productivity-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2017-12-30-productivity-tools/</guid>
+      <guid>https://felixvo.github.io/posts/2017-12-30-productivity-tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Repository Pattern vs Data Access Object?</title>
-      <link>http://example.org/posts/2019-08-12-repository-pattern-vs-data-access-object/</link>
+      <link>https://felixvo.github.io/posts/2019-08-12-repository-pattern-vs-data-access-object/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2019-08-12-repository-pattern-vs-data-access-object/</guid>
+      <guid>https://felixvo.github.io/posts/2019-08-12-repository-pattern-vs-data-access-object/</guid>
       <description>&lt;p&gt;What are the differences betwwen those?&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Secure S3 Cloudfont Content</title>
-      <link>http://example.org/posts/2018-10-27-sercure-s3-cloudfront/</link>
+      <link>https://felixvo.github.io/posts/2018-10-27-sercure-s3-cloudfront/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2018-10-27-sercure-s3-cloudfront/</guid>
+      <guid>https://felixvo.github.io/posts/2018-10-27-sercure-s3-cloudfront/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Many companies that distribute content over the internet want to restrict access to documents, business data, media streams, or content
 that is intended for selected users, for example, users who have paid a fee&lt;/p&gt;
@@ -199,19 +199,19 @@ that is intended for selected users, for example, users who have paid a fee&lt;/
     
     <item>
       <title>Vim to Emacs, a simple configuration that won&#39;t blow your mind</title>
-      <link>http://example.org/posts/2020-04-29-vim-to-emacs/</link>
+      <link>https://felixvo.github.io/posts/2020-04-29-vim-to-emacs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2020-04-29-vim-to-emacs/</guid>
+      <guid>https://felixvo.github.io/posts/2020-04-29-vim-to-emacs/</guid>
       <description>&lt;p&gt;Emacs - An extensible, customizable, free/libre text editor&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>What is Binary number by the way</title>
-      <link>http://example.org/posts/2020-05-24-binary-number/</link>
+      <link>https://felixvo.github.io/posts/2020-05-24-binary-number/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2020-05-24-binary-number/</guid>
+      <guid>https://felixvo.github.io/posts/2020-05-24-binary-number/</guid>
       <description>&lt;h2 id=&#34;binary-vs-decimal&#34;&gt;Binary vs Decimal&lt;/h2&gt;
 &lt;p&gt;Before talking about binary numbers, lets talk about Decimal number(base-10) first.&lt;br&gt;
 Because we use Decimal everyday in school or in your life&lt;br&gt;
@@ -220,10 +220,10 @@ Base-10 mean you have 10 digits (from 0 to 9) to represent your number&lt;/p&gt;
     
     <item>
       <title>Working with MySQL JSON</title>
-      <link>http://example.org/posts/2019-06-04-working-with-mysql-json/</link>
+      <link>https://felixvo.github.io/posts/2019-06-04-working-with-mysql-json/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2019-06-04-working-with-mysql-json/</guid>
+      <guid>https://felixvo.github.io/posts/2019-06-04-working-with-mysql-json/</guid>
       <description>&lt;p&gt;As of &lt;a href=&#34;https://dev.mysql.com/doc/relnotes/mysql/5.7/en/news-5-7-8.html#mysqld-5-7-8-json&#34;&gt;MySQL 5.7.8&lt;/a&gt;, MySQL supports a native JSON data type defined by RFC 7159 that enables efficient access to data in JSON (JavaScript Object Notation) documents&lt;/p&gt;</description>
     </item>
     
